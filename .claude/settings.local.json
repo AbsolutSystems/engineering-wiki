@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)",
+      "Bash(find ~/.claude/plugins -maxdepth 3 -type f -name *.md)",
+      "Bash(cp /Users/kamil/.claude/skills/feature-discuss/SKILL.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/feature-discuss.md)",
+      "Bash(cp /Users/kamil/.claude/commands/tasks/generate-tasks-command.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/tasks/)",
+      "Bash(cp /Users/kamil/.claude/commands/tasks/implement-tasks.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/tasks/)",
+      "Bash(cp /Users/kamil/.claude/commands/tasks/ai-enable-project.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/tasks/)",
+      "Bash(cp /Users/kamil/.claude/commands/tasks/ai-update-project.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/tasks/)",
+      "Bash(cp /Users/kamil/.claude/commands/nexus/full-review.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/nexus/)",
+      "Bash(cp /Users/kamil/.claude/commands/nexus/semantic-review.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/nexus/)",
+      "Bash(cp /Users/kamil/.claude/commands/nexus/edge-hunt.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/nexus/)",
+      "Bash(cp /Users/kamil/.claude/commands/nexus/check-rules.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/nexus/)",
+      "Bash(cp /Users/kamil/.claude/commands/nexus/garbage-collect.md /Users/kamil/Projekty/engineering-wiki/ai/kamil-lightweight-flow/commands/nexus/)"
+    ]
+  }
+}
