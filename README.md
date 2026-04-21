@@ -50,3 +50,4 @@ Krótki opis — o czym jest artykuł i dla kogo jest przeznaczony.
 - [Lightweight Flow](ai/kamil-lightweight-flow/) — workflow Kamila z Claude Code: `/feature` + `/tasks` + `/nexus`
 - [Dokumentacja projektu dla AI (CLAUDE.md)](ai/claude-md-documentation/) — system hierarchicznych plików CLAUDE.md dla AI coding agents
 - [Superpowers](ai/superpowers.md) — composable skills wymuszające ustrukturyzowany workflow (TDD, planning, code review)
+- [Absolut AI Skills](ai/absolut-ai-skills.md) — plugin do Claude Code: feature-discuss → generate-tasks → implement → review
